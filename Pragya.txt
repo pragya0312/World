@@ -1,0 +1,11 @@
+#!/bin/bash
+
+#add
+c=$(( 2+3 ))
+
+#multiplication
+
+
+#Substraction
+
+#divide
